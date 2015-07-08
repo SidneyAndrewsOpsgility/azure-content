@@ -56,7 +56,7 @@ The 3D Blueprint PDFs are created in a non-Microsoft tool, but a Visio template 
 
 ##Cloud and Enterprise Symbol/Icon set
 
-[Download the Cloud and Enterprise Symbol/Icon set](http://aka.ms/CnESymbols) to create technical materials that describe Azure, Windows Server, SQL Server and other Microsoft products. You can use them in architecture diagrams, training materials, presentations, datasheets, infographics, whitepapers and even 3rd party books if the book trains people to use Microsoft products. The symbols are in Visio and PNG formats. Instructions on how to use the PNGs in PowerPoint are included. 
+[Download the Cloud and Enterprise Symbol/Icon set](http://www.microsoft.com/en-us/download/details.aspx?id=41937) to create technical materials that describe Azure, Windows Server, SQL Server and other Microsoft products. You can use them in architecture diagrams, training materials, presentations, datasheets, infographics, whitepapers and even 3rd party books if the book trains people to use Microsoft products. The symbols are in Visio and PNG formats. Instructions on how to use the PNGs in PowerPoint are included. 
 
 The symbol set ships quarterly and is updated as new services are released. If you want a preview of the newest release, which may include additional Azure services, email [CnESymbols@microsoft.com](mailto:CnESymbols@microsoft.com).  
 
